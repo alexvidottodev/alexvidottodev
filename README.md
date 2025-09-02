@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 - 🌱 Estoy aprendiendo Python y el framework laravel
 - 👯 Aca agregare si colaboro en un open source
 
+Estadísticas de GitHub 
 
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexvidottodev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexvidottodev&show_icons=true&theme=dark) 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvidottodev&layout=compact&theme=dark&hide=html,css)
+
+        
