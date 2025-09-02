@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 
-![Alex github stats](https://github-readme-stats.vercel.app/api?username=alexvidottodev&show_icons=true&theme=dark)
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexvidottodev&show_icons=true&theme=dark)
 
