@@ -1,7 +1,7 @@
-### Hi there I'm [Alex!](https://github.com/alexvidottodev)👋
-Soy Alex E. Vidotto, estudiante en tecnicatura de Software, entusiasta por el desarrollo de la AI.<br>
+### Buenas soy [Alex!](https://github.com/alexvidottodev)👋
+Estudiante en tecnicatura de Software, entusiasta por el desarrollo de la AI y por boca💙💛💙.<br>
 ## 📫 Donde contactarme: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-emanuel-vidotto-935a39381) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/alexvidottodev) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter]() [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook]()
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-emanuel-vidotto-935a39381) [![GitHub](https://simpleicons.org/?modal=icon&q=github) GitHub](https://github.com/alexvidottodev) [![Twitter](https://simpleicons.org/?modal=icon&q=x) Twitter](https://x.com/Alex_vidotto17)
 <!--
 **AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 
 
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=alexvidottodev&show_icons=true&theme=dark)
+![Alex github stats](https://github-readme-stats.vercel.app/api?username=alexvidottodev&show_icons=true&theme=dark)
 
-⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
