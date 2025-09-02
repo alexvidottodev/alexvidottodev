@@ -1,7 +1,9 @@
 ### Buenas soy [Alex!](https://github.com/alexvidottodev)👋
 Estudiante en tecnicatura de Software, entusiasta por el desarrollo de la AI y por boca💙💛💙.<br>
 ## 📫 Donde contactarme: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-emanuel-vidotto-935a39381) [![GitHub](https://simpleicons.org/?modal=icon&q=github) GitHub](https://github.com/alexvidottodev) [![Twitter](https://simpleicons.org/?modal=icon&q=x) Twitter](https://x.com/Alex_vidotto17)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-emanuel-vidotto-935a39381) [![GitHub](https://img.shields.io/badge/-black?logo=github
+) GitHub](https://github.com/alexvidottodev) [![Twitter](https://img.shields.io/badge/-black?logo=x
+)Twitter](https://x.com/Alex_vidotto17)
 <!--
 **AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
